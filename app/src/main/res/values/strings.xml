@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movinder</string>
+    <string name="get_movie_data">Get Movie Data</string>
+    <string name="movie_id">Movie ID</string>
+</resources>
